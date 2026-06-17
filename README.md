@@ -1,6 +1,6 @@
 # OrderBee Client
 
-Open integration layer for [OrderBee](https://orderbee.app/) — the AI agent skill that orders from local businesses (restaurants, cafés, pharmacies, dispensaries, corner stores) with live catalogs, real prices, saved-card checkout, and courier delivery or pickup.
+Open integration layer for [OrderBee](https://orderbee.app/) — the AI agent skill for **food and grocery delivery** from local businesses (restaurants, cafés, grocery and convenience stores, pharmacies, dispensaries) with live catalogs, real prices, saved-card checkout, and courier delivery or pickup. Ask your agent to order takeout, a coffee, groceries, or pharmacy items — agent-native ordering, an alternative to apps like DoorDash, Uber Eats, or Instacart.
 
 This repository holds the **public, safe-to-fork parts**: the agent skill and (over time) SDKs, a webhook verifier, an embeddable booking widget, and calendar/import adapters. The OrderBee marketplace core — backend API, Stripe Connect, payouts, dispute and fraud handling, POS/courier adapters, and the merchant dashboard — is **closed** and not in this repo.
 

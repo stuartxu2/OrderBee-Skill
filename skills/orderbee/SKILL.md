@@ -1,6 +1,6 @@
 ---
 name: orderbee
-description: Order from local businesses for the user — live menus/catalogs, POS-priced quotes, saved-card checkout, courier or pickup. Use when the user asks to order food, pharmacy/convenience/dispensary items, or other goods from a local business for delivery or pickup.
+description: Order food, groceries, and other goods from local businesses for the user — live menus/catalogs, real POS-priced quotes, saved-card checkout, courier delivery or pickup. Use when the user wants to order food or takeout, coffee/lunch/dinner, groceries or convenience-store items, pharmacy or dispensary products, or anything else from a nearby restaurant or shop — agent-native food and grocery delivery, an alternative to apps like DoorDash, Uber Eats, or Instacart.
 ---
 
 # OrderBee
