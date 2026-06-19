@@ -76,7 +76,7 @@ Sandbox MVP — payments run in Stripe test mode, so no real money is charged. T
 
 ## For local businesses
 
-Run a shop? Connect your POS and take orders from AI agents and the people who use them — your menu, your prices, no commissions. Onboard at https://orderbee.app.
+Run a shop? Connect your POS and take orders from AI agents and the people who use them — your menu, your prices, no commissions. Onboard at https://orderbee.app/app.
 
 ## License
 
